@@ -1,0 +1,12 @@
+# Dependencies
+node_modules
+
+#ENV
+.env
+
+#logs
+logs/*log*
+
+# Editor
+.vscode
+.history
